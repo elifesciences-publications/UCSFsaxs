@@ -1,3 +1,8 @@
+
+### This code is associated with the paper from Elnatan et al., "Symmetry broken and rebroken during the ATP hydrolysis cycle of the mitochondrial Hsp90 TRAP1". eLife, 2017. http://dx.doi.org/10.7554/eLife.25235
+
+
+
 # UCSFsaxs
 GUI for SAXS analysis, with smearing correction for line-collimated beam.
 
